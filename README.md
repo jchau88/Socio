@@ -30,3 +30,6 @@ o	Source/Provenance: https://data.census.gov/table/ACSST5Y2023.S1501
 •	Key Columns: County, violent crime rate per 100,000 people, including homicide, robbery, rape, and aggravated assault.
 •	Usage: This dataset provides the dependent variable to be modeled and analyzed.
 •	Source/Provenance: CDE
+US Census Demographic Data
+Crime in Context, 1975-2015
+
